@@ -1,20 +1,20 @@
 {
   "name": "pinki",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Asynchronous libraries wrapper",
   "definition": "Pinky Promises",
-  "homepage": "https://github.com/absolunet/pinki",
+  "homepage": "https://github.com/absolunet/bower-legacy-pinki",
   "author": {
     "name": "Absolunet",
     "url": "https://absolunet.com"
   },
   "license": "MIT",
   "repository": {
-    "url": "git://github.com/absolunet/pinki.git",
+    "url": "git://github.com/absolunet/bower-legacy-pinki.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/absolunet/pinki/issues"
+    "url": "https://github.com/absolunet/bower-legacy-pinki/issues"
   },
   "main": "index.js",
   "ignore": [
